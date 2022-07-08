@@ -1,5 +1,7 @@
 Phân loại văn hóa.
 ---
+---
+[**Mục Lục**](../README.md)
 
 Tôi đã nghiên cứu về văn hóa từ hơn 10 năm nay. Lúc đầu thì tôi nghiên cứu về văn hóa doanh nghiệp. Ngày ấy, do nhu cầu đi dạy kiếm tiền mà tôi phải nghiên cứu.
 
@@ -77,3 +79,5 @@ Ngày nay văn hóa xã hội được đặc trưng bởi lừa đảo trộm c
 Tôi cũng vừa đọc thấy hình như có tít báo đưa "*Có một Hoa Hậu nào đó được hay bị, con một Đại Gia nào đó xin cưới*".
 
 Hóa ra gái đẹp Việt thì cứ phải làm vợ đạo diễn hay diễn viên Majorca mới phù hợp. Không có vài cầu thủ bóng đá thì khéo mà gái đẹp đứng đường hết cả lũ.
+
+[Một Dân Tộc Đáng Trách](extends/mdtdt.md)

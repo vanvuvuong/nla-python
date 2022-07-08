@@ -1,6 +1,7 @@
 Một Dân Tộc Đáng Trách (7:00 ngày 7/7/2018).
 ---
 ---
+[**Mục Lục**](../README.md)
 
 Tự thân việc truy tìm "Cha Đẻ" của "chữ Quốc Ngữ", tức việc Latinh hóa Tiếng Việt cũng không có gì đáng giá mà phải thần thánh hóa.
 
@@ -133,3 +134,7 @@ Các đặc điểm của tiếng Việt: (sẽ viết)
 
 Những cái trên tôi sẽ viết ...
 Thay vì đi làm những việc nhảm nhí tìm xem ông *"râu dài tới đâu là bố đẻ"*, nên thể hiện sự biết ơn dưới dạng tiếp nối công sức của họ..
+
+[Phân loại văn hóa](extends/plvh.md)
+
+[Dạy Trẻ](extends/dt.md)

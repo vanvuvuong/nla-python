@@ -8,4 +8,5 @@
 
 ## Phần Mở Rộng:
 ### 1. [Phân loại văn hóa](extends/plvh.md)
-### 1. [Một Dân Tộc Đáng Trách](extends/mdtdt.md)
+### 2. [Một Dân Tộc Đáng Trách](extends/mdtdt.md)
+### 3. [Dạy Trẻ](extends/dt.md)
