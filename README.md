@@ -6,7 +6,8 @@
 ### 1. [Bài 1: Giới Thiệu Về  Python](tutorial/1.md)
 ### 2. [Bài 2: Vòng Lặp for](tutorial/2.md)
 ### 3. [Bài 3: Vì Sao Âm Của Âm Lại Là Dương](tutorial/3.md)
-### 3. [Bài 4: Định Lý Pytago](tutorial/4.md)
+### 4. [Bài 4: Định Lý Pytago](tutorial/4.md)
+### 5. [Bài 5: Số Π Là Gì?](tutorial/5.md)
 
 ---
 ## Phần Mở Rộng:
