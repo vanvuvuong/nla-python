@@ -57,4 +57,6 @@ Bước đầu là đi dã ngoại, leo núi.
 
    Điều quan trọng ở đây là phải để cho trẻ tự lên kế hoạch, tự thực hiện và tự tổng kết.
 
-[Một Dân Tộc Đáng Trách](extends/mdtdt.md)
+[Một Dân Tộc Đáng Trách](mdtdt.md)
+
+[Hoàng Hôn Hay Bình Minh.](hhhbm.md)

@@ -135,6 +135,6 @@ Các đặc điểm của tiếng Việt: (sẽ viết)
 Những cái trên tôi sẽ viết ...
 Thay vì đi làm những việc nhảm nhí tìm xem ông *"râu dài tới đâu là bố đẻ"*, nên thể hiện sự biết ơn dưới dạng tiếp nối công sức của họ..
 
-[Phân loại văn hóa](extends/plvh.md)
+[Phân loại văn hóa](plvh.md)
 
-[Dạy Trẻ](extends/dt.md)
+[Dạy Trẻ](dt.md)

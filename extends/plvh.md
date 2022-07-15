@@ -80,4 +80,4 @@ Tôi cũng vừa đọc thấy hình như có tít báo đưa "*Có một Hoa H�
 
 Hóa ra gái đẹp Việt thì cứ phải làm vợ đạo diễn hay diễn viên Majorca mới phù hợp. Không có vài cầu thủ bóng đá thì khéo mà gái đẹp đứng đường hết cả lũ.
 
-[Một Dân Tộc Đáng Trách](extends/mdtdt.md)
+[Một Dân Tộc Đáng Trách](mdtdt.md)
