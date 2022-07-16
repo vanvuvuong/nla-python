@@ -15,3 +15,10 @@
 ### 2. [Một Dân Tộc Đáng Trách](extends/mdtdt.md)
 ### 3. [Dạy Trẻ](extends/dt.md)
 ### 4. [Hoàng Hôn Hay Bình Minh.](extends/hhhbm.md)
+
+
+---
+## Tài Liệu Tham Khảo:
+
+### 1. [BGGT 07 - Copy có Hermite theorem](files/BGGT%2007%20-%20Copy%20c%C3%B3%20Hermite%20theorem.pdf)
+### 2. [SGK](https://drive.google.com/drive/folders/13nujCRm-0coPbRiFW2jsu7zMj5abbmjy?usp=sharing)
